@@ -11,4 +11,4 @@ This repository contains the supplementary material for the IDETC 2025 paper tit
 
 ## Contact
 
-For any questions or issues, please contact [your email].
+For any questions or issues, please contact fliu23@buffalo.edu.
