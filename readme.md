@@ -2,7 +2,7 @@
 
 This repository contains the supplementary material for the IDETC 2025 paper titled:
 
-**Graph-learning aided Approach for Efficient Design Optimization over Mixed-Combinatorial Spaces**
+**Efficient Design Optimization over Mixed-Combinatorial Spaces Enabled by Graph-learning**
 
 ## Contents
 
