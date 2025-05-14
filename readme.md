@@ -8,6 +8,7 @@ This repository contains the supplementary material for the IDETC 2025 paper tit
 
 - The objective function for the benchmark problem
 - The valid combinations for the benchmark problem
+- The ground truth and predicted ranks of 2000 subgraphs in the validation set of GNN-3k
 
 ## Contact
 
