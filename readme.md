@@ -7,6 +7,7 @@ This repository contains the supplementary material for the IDETC 2025 paper tit
 ## Contents
 
 - The valid combination set
+  - The variables are in the order of 'thrustMag', 'Isp', 'thruster_mass', 'elastic_modulus', 'density', 'num_MU', 'net_mesh', 'closeNodesOffset'. The number of MU is kept in the combination for future experiments.
 - The animation of the baseline, MDPSO-optimized and GNN-NavCo-aided MDPSO optimized capture
 
 ## Contact
