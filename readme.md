@@ -1,14 +1,13 @@
-# Supplement Material for IDETC 2025 Paper
+# Supplement Material for AIAA Aviation 2026 Paper
 
 This repository contains the supplementary material for the IDETC 2025 paper titled:
 
-**Efficient Design Optimization over Mixed-Combinatorial Spaces Enabled by Graph-learning**
+**Designing Active Tether-Net System for Space Debris Capture with Graph Learning aided Mixed-Combinatorial Optimization**
 
 ## Contents
 
-- The objective function for the benchmark problem
-- The valid combinations for the benchmark problem
-- The ground truth and predicted ranks of 2000 subgraphs in the validation set of GNN-3k
+- The valid combination set
+- The animation of the baseline, MDPSO-optimized and GNN-NavCo-aided MDPSO optimized capture
 
 ## Contact
 
