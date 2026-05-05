@@ -13,7 +13,9 @@ This repository contains the supplementary material for the IDETC 2025 paper tit
 ### 3D View
 
 
-https://github.com/user-attachments/assets/dc66ac77-e170-4f46-9d0b-adf101c2e124
+https://github.com/user-attachments/assets/d8ebd8bc-f512-45c5-b21b-1598a58ccf41
+
+
 
 
 
